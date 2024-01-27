@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "m18")(type "KiCad")(uri "${KIPRJMOD}/lib/m18/m18.pretty")(options "")(descr ""))
+  (lib (name "rcj-22")(type "KiCad")(uri "${KIPRJMOD}/lib/rcj-22/rcj-22.pretty")(options "")(descr ""))
+  (lib (name "dd1718pa")(type "KiCad")(uri "${KIPRJMOD}/lib/dd1718pa/dd1718pa.pretty")(options "")(descr ""))
+)
